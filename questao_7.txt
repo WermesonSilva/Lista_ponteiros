@@ -1,0 +1,2 @@
+	A primeira opção, pois o *(p + 2) indica dar dois saltos positivos a partir do primeiro indice
+e logo em seguida retornar o valor que pulo possui nessa posição.

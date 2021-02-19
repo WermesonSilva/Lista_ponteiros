@@ -1,0 +1,8 @@
+a - válido
+b - inválido
+c - inválido
+d - inválido
+e - válido
+f - inválido
+g - inválido
+h - válido

@@ -1,0 +1,6 @@
+1 - é válida, pois mat é um endereço e mat + 1 representa que o p receberá o valor
+de mat mais um salto de 4 bytes;
+
+2 - é válida, pois mat é um endereço e p é um ponteiro;
+
+4 - é válida, pois x receberá o valor da primeira posição de mat;

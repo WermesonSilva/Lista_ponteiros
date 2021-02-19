@@ -1,0 +1,5 @@
+	Os ponteiros são importantes para fazer alocações dinâmicas, tal que isso 
+tem grandes aplicações quando se deseja liberar a memória reservada e para quando
+se dejesa usar exatamente o valor necessário. Com os ponteiros também é possível
+trocar os valores de duas variaveis dentro de uma função. Por causa dos ponteiros
+também é possível passar uma função como como parâmetro de outra função.
